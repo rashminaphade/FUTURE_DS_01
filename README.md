@@ -138,5 +138,20 @@ Insight generation
 
 Business storytelling with data
 
-# 📸Dashboard preview (
+# 📸 Dashboard preview
+(https://github.com/rashminaphade/FUTURE_DS_01/blob/main/Screenshot%202026-02-14%20143207.png)
+
+# 📌 How to Use This Dashboard
+
+Open the .pbix file in Power BI Desktop
+
+Use slicers (Region, Category, Segment, Year) to filter results
+
+Hover on visuals to see detailed metrics
+
+Use Top-10 product chart to identify key revenue drivers
+
+# 🔗 Internship Track Code Track:
+Data Science & Analytics Code: DS Task: 01 Repository Name: FUTURE_DS_01
+
 
